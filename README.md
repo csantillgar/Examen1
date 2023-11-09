@@ -102,3 +102,17 @@ La "adquisición de recursos" en C++ se refiere al proceso de obtener acceso a r
 
 La gestión de recursos en C++ es esencial para garantizar la liberación adecuada de recursos adquiridos y prevenir problemas como fugas de memoria. El concepto clave es RAII (Resource Acquisition Is Initialization), que asocia la adquisición y liberación de recursos con el ciclo de vida de un objeto. Los destructores de objetos se encargan de liberar los recursos al salir de ámbito, asegurando una gestión eficiente incluso en presencia de excepciones, lo que mejora la robustez y fiabilidad del programa.
 
+
+### Índice
+
+PopAi: Better AI with boosted answers. (s. f.). Popai.Pro. Recuperado 9 de noviembre de 2023, de https://www.popai.pro/chat/06a2753e-4849-48d3-923a-79e77f10ecf7
+
+(S. f.). Openai.com. Recuperado 9 de noviembre de 2023, de https://chat.openai.com/c/e25d2824-aa4f-47b2-aa87-3e78f18b40f1
+
+Curso para programar C++; fácil, rápido y paso a paso. (s. f.). Programarya.com. Recuperado 9 de noviembre de 2023, de https://www.programarya.com/Cursos/C++
+
+
+
+
+
+
