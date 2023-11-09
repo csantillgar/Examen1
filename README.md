@@ -17,13 +17,13 @@ https://github.com/csantillgar/Examen1.git
     
     c. Soporte a la programación de bajo nivel
     
-    ***d. Todas las anteriores***
+    ***d. Todas las anteriores***(CORRECTA)
 
 2. Durante el proceso de desarrollo, a menudo es necesario compilar y enlazar múltiples archivos. En este contexto, ¿qué es un archivo makefile?
 
     a. Un archivo que contiene código fuente C++
 
-    ***b. Un archivo que ayuda a gestionar y automatizar la compilación de proyectos de programación***
+    ***b. Un archivo que ayuda a gestionar y automatizar la compilación de proyectos de programación***(CORRECTA)
 
     c. Un archivo que almacena las configuraciones del entorno de desarrollo
 
@@ -33,7 +33,7 @@ https://github.com/csantillgar/Examen1.git
 
     a. Variables que almacenan un valor específico
 
-    ***b. Variables que almacenan la dirección de otra variable***
+    ***b. Variables que almacenan la dirección de otra variable***(CORRECTA)
 
     c. Funciones que apuntan a otras funciones
 
@@ -44,16 +44,23 @@ https://github.com/csantillgar/Examen1.git
 ### 2.Problemas de codificación
 1. **Operaciones Básicas:** El sistema debe ser capaz de realizar operaciones matemáticas básicas para gestionar datos numéricos.
 
-2. **Gestión de Estudiantes:** La escuela requiere llevar un control sobre sus estudiantes.
-3. **Optimización de Memoria:** La gestión eficiente de la memoria es esencial para garantizar el rendimiento del sistema y evitar pérdidas de información.
-4. **Operaciones Básicas:**
-5. **Operaciones Básicas:**
-6. **Operaciones Básicas:**
-7. **Operaciones Básicas:**
-8. **Operaciones Básicas:**
-9. **Operaciones Básicas:**
-10. **Operaciones Básicas:**
+Encontrarás este código dentro de la carpeta: Ejercicio1-Operaciones Básicas
 
+2. **Gestión de Estudiantes:** La escuela requiere llevar un control sobre sus estudiantes.
+
+Encontrarás este código dentro de la carpeta: Ejercicio2-Gestión de Estudiantes
+
+3. **Optimización de Memoria:** La gestión eficiente de la memoria es esencial para garantizar el rendimiento del sistema y evitar pérdidas de información.
+
+Encontrarás este código dentro de la carpeta: Ejercicio2-Optimización de Memoria
+
+4. **Manejo de Excepciones:** Dada la importancia de los datos de los estudiantes, el sistema debe ser robusto frente a errores inesperados.
+
+Encontrarás este código dentro de la carpeta: Ejercicio2-Manejo de Excepciones
+
+5. **Registro de Materias:** Cada estudiante tiene un conjunto de materias asignadas.
+
+Encontrarás este código dentro de la carpeta: Ejercicio2-Registro de Materias
 
 
 
