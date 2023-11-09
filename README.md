@@ -43,9 +43,39 @@ https://github.com/csantillgar/Examen1.git
 ### 2.Problemas de codificación
 1. **Operaciones Básicas:** El sistema debe ser capaz de realizar operaciones matemáticas básicas para gestionar datos numéricos.
 
+2. **Gestión de Estudiantes:** La escuela requiere llevar un control sobre sus estudiantes.
+3. **Optimización de Memoria:** La gestión eficiente de la memoria es esencial para garantizar el rendimiento del sistema y evitar pérdidas de información.
+4. **Operaciones Básicas:**
+5. **Operaciones Básicas:**
+6. **Operaciones Básicas:**
+7. **Operaciones Básicas:**
+8. **Operaciones Básicas:**
+9. **Operaciones Básicas:**
+10. **Operaciones Básicas:**
+
 
 
 
 
 
 ### 3.Preguntas de desarrollo
+1. La programación ha adoptado diferentes enfoques a lo largo del tiempo. Explica:
+
+* ¿Cómo la programación orientada a objetos difiere de la programación procedimental?
+* ¿Cómo C++ brinda soporte para ambos paradigmas?
+
+
+
+2. Las excepciones en C++ tienen un comportamiento específico. Describe:
+
+* ¿Qué es la propagación de una excepción?
+* ¿Qué ocurre si una excepción lanzada no es capturada por ningún bloque catch?
+
+
+
+
+
+3. La gestión de recursos es un concepto crucial en la programación. Explica:
+
+* ¿Qué se entiende por "Adquisición de Recursos" en el contexto de C++?
+* ¿Por qué es importante y cómo se relaciona con la gestión de excepciones?
