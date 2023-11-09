@@ -62,6 +62,10 @@ https://github.com/csantillgar/Examen1.git
 1. La programación ha adoptado diferentes enfoques a lo largo del tiempo. Explica:
 
 * ¿Cómo la programación orientada a objetos difiere de la programación procedimental?
+
+La programación orientada a objetos (POO) y la programación procedimental son dos enfoques diferentes para organizar y estructurar el código. En la programación procedimental, el código se organiza en funciones o procedimientos que realizan tareas específicas. La atención se centra en los datos y en cómo se manipulan a través de estas funciones.
+
+Por otro lado, la programación orientada a objetos se basa en la idea de "objetos", que combinan datos y funciones en una única unidad. Los objetos interactúan entre sí, y el código se organiza en clases que definen la estructura y el comportamiento de los objetos. La POO favorece la reutilización del código y proporciona una forma más natural de modelar el mundo real.
 * ¿Cómo C++ brinda soporte para ambos paradigmas?
 
 
