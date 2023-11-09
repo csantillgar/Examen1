@@ -1,0 +1,3 @@
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio1-Operaciones Basicas/cmake-build-debug/CMakeFiles/Ejercicio1_Operaciones_Basicas.dir
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio1-Operaciones Basicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio1-Operaciones Basicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
