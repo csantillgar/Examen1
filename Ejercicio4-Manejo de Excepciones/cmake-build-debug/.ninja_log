@@ -1,0 +1,6 @@
+# ninja log v5
+2	210	7212355272659184	build.ninja	b4fb533de3c223ea
+0	224	7212357437965992	CMakeFiles/Ejercicio4_Manejo_de_Excepciones.dir/main.cpp.obj	1a16a59942c4b6a2
+231	342	7212357439082188	Ejercicio4_Manejo_de_Excepciones.exe	c29fdd511eeeb86b
+3	247	7212357536978062	CMakeFiles/Ejercicio4_Manejo_de_Excepciones.dir/main.cpp.obj	1a16a59942c4b6a2
+248	351	7212357537978830	Ejercicio4_Manejo_de_Excepciones.exe	c29fdd511eeeb86b
