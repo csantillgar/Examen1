@@ -1,0 +1,4 @@
+# ninja log v5
+4	225	7212340872352625	build.ninja	a7f927a779f9759d
+0	243	7212340875718904	CMakeFiles/Ejercicio3_Optimizacion_de_Memoria.dir/main.cpp.obj	4a904d1d39696da1
+251	353	7212340876819535	Ejercicio3_Optimizacion_de_Memoria.exe	1f4ac0147fb6f4c9

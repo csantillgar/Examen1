@@ -1,0 +1,3 @@
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio3-Optimizacion de Memoria/cmake-build-debug/CMakeFiles/Ejercicio3_Optimizacion_de_Memoria.dir
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio3-Optimizacion de Memoria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio3-Optimizacion de Memoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ejercicio3_Optimizacion_de_Memoria",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio3_Optimizacion_de_Memoria::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio3_Optimizacion_de_Memoria-Debug-762d39f600015dc18bd8.json",
+					"name" : "Ejercicio3_Optimizacion_de_Memoria",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio3-Optimizacion de Memoria/cmake-build-debug",
+		"source" : "C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio3-Optimizacion de Memoria"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
