@@ -1,0 +1,8 @@
+# ninja log v5
+4	303	7212330543284514	build.ninja	b0866dddcb4cc527
+0	401	7212330549698355	CMakeFiles/Ejercicio2_Gestion_de_Estudiantes.dir/main.cpp.obj	d8938d90b7391e66
+403	519	7212330550825965	Ejercicio2_Gestion_de_Estudiantes.exe	902e8b599768669f
+3	410	7212330727038473	CMakeFiles/Ejercicio2_Gestion_de_Estudiantes.dir/main.cpp.obj	d8938d90b7391e66
+410	574	7212330728621226	Ejercicio2_Gestion_de_Estudiantes.exe	902e8b599768669f
+3	241	7212330813664681	CMakeFiles/Ejercicio2_Gestion_de_Estudiantes.dir/main.cpp.obj	d8938d90b7391e66
+241	336	7212330814585471	Ejercicio2_Gestion_de_Estudiantes.exe	902e8b599768669f
