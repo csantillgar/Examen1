@@ -1,0 +1,3 @@
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio5-Registro de Materias/cmake-build-debug/CMakeFiles/Ejercicio5_Registro_de_Materias.dir
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio5-Registro de Materias/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cinti/Documents/GitHub/Examen1/Ejercicio5-Registro de Materias/cmake-build-debug/CMakeFiles/rebuild_cache.dir
