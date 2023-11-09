@@ -63,6 +63,10 @@ Encontrarás este código dentro de la carpeta: Ejercicio2-Manejo de Excepciones
 Encontrarás este código dentro de la carpeta: Ejercicio2-Registro de Materias
 
 
+6.**Promedio del Estudiante:** La escuela necesita calcular el promedio de calificaciones de un estudiante.
+
+Encontrarás este código dentro de la carpeta: Ejercicio6-Promedio del Estudiante
+
 
 
 
